@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/lnee/projects/teh/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QML_LIB -I/home/lnee/projects/teh/build/src/teh_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtQml -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -g -fPIC -o src/CMakeFiles/teh.dir/teh_autogen/mocs_compilation.cpp.o -c /home/lnee/projects/teh/build/src/teh_autogen/mocs_compilation.cpp",
+  "file": "/home/lnee/projects/teh/build/src/teh_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/lnee/projects/teh/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QML_LIB -I/home/lnee/projects/teh/build/src/teh_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtQml -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -g -fPIC -o src/CMakeFiles/teh.dir/main.cpp.o -c /home/lnee/projects/teh/src/main.cpp",
+  "file": "/home/lnee/projects/teh/src/main.cpp"
+},
+{
+  "directory": "/home/lnee/projects/teh/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QML_LIB -I/home/lnee/projects/teh/build/src/teh_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtQml -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -g -fPIC -o src/CMakeFiles/teh.dir/qrc_resources.cpp.o -c /home/lnee/projects/teh/build/src/qrc_resources.cpp",
+  "file": "/home/lnee/projects/teh/build/src/qrc_resources.cpp"
+}
+]
