@@ -29,7 +29,7 @@ property var i: 0
     Image {
         id: ima
         anchors.fill: parent
-        source: "file:///home/lnee/Pictures/teht.png"
+        source: "qrc:/qml/main.qmlg"
         rotation: 45
         // transform: Rotation { origin.x: 100; origin.y: 100;  angle: 45 }
     }
